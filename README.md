@@ -19,3 +19,7 @@
 - NumPy
 - Matplotlib
 
+ 🚀 How to Run
+
+Open `2D to 3D.ipynb` in Jupyter Notebook:
+
